@@ -1,5 +1,4 @@
-{
-    "name": "summarization",
+{    "name": "summarization",
     "version": "1.0.0",
     "description": "This is the summarization script",
     "scripts": {
@@ -11,7 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/Manjunadh7997/summarization.git"
     },
-    "author": "",
+    "author": "manjunadh7997",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/Manjunadh7997/summarization/issues"

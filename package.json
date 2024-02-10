@@ -4,7 +4,7 @@
     "scripts": {
         "build": "echo \"app.py",
         "test": "echo \"app.py",
-        "start": "node index.js"
+        "start": "node index.html"
     },
     "repository": {
         "type": "git",

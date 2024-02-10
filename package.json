@@ -1,7 +1,7 @@
 {
     "name": "summarization",
     "version": "1.0.0",
-    "description": "",
+    "description": "This is the summarization script",
     "scripts": {
         "build": "echo \"app.py",
         "test": "echo \"app.py",
